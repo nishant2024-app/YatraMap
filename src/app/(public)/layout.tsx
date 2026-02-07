@@ -15,7 +15,7 @@ export default function PublicLayout({
             <header className="fixed top-0 left-0 right-0 z-40 bg-primary-500 text-white shadow-md">
                 <div className="flex items-center justify-center h-14 px-4">
                     <h1 className="text-lg font-bold tracking-wide high-contrast">
-                        🕉️ YatraMap
+                        YatraMap
                     </h1>
                 </div>
             </header>

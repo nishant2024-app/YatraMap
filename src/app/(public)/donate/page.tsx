@@ -54,7 +54,7 @@ export default function DonatePage() {
                 <h3 className="font-semibold text-gray-800 text-lg mb-2">
                     {donateInfo?.committee_name || "Yatra Committee"}
                 </h3>
-                <p className="text-gray-600 leading-relaxed">
+                <p className="text-gray-600 leading-relaxed whitespace-pre-line">
                     {donateInfo?.purpose_text || "Your donations help us organize the annual Yatra, maintain the temple, and support community activities."}
                 </p>
             </div>

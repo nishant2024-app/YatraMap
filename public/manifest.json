@@ -1,0 +1,30 @@
+{
+    "name": "YatraMap",
+    "short_name": "YatraMap",
+    "description": "Digital stall map and information system for Mangrulpir Village Yatra",
+    "start_url": "/stalls",
+    "display": "standalone",
+    "background_color": "#FDF6E3",
+    "theme_color": "#FF6B35",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "navigation",
+        "utilities"
+    ],
+    "lang": "en",
+    "dir": "ltr"
+}
